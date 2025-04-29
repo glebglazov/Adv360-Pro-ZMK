@@ -2,9 +2,9 @@
 
 ```
   Command  Control
-   B   D   Page_Up
-   C   E   Option
-   S   L
+   B   E   Page_Up
+   C   S   Option
+   S   C
 ```
 # Right thumb
 
